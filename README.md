@@ -66,7 +66,7 @@ The create table statements are all found in [load.sql](https://github.com/sunan
 15. **Who are all the actors who also directed at least one movie?** <br /> QUERY: select a.actor_name from actor a, director d where a.actor_name = d.director_name;
 [Result](https://github.com/sunanth123/DBproject/blob/master/QueryResults/15.txt)
 
-16. **What is the highest grossing movies by year?** <br /> QUERY: select t.year, max(m.revenue), m.title from time t, movie m where m.time_id = t.id group by t.year order by t.year ASC;
+16. **What is the highest grossing movies by year?** <br /> QUERY: select t.year, m.title, m.revenue from movie m, time t where m.time_id = t.id and m.revenue in (select max(m.revenue) from time t, movie m where m.time_id = t.id group by t.year) order by t.year ASC;
 [Result](https://github.com/sunanth123/DBproject/blob/master/QueryResults/16.txt)
 
 17. **What is the number of genres for each movie?** <br /> QUERY: select m.title, count(g.genre_name) from movie m, genre g, hasgenre hg where m.id = hg.movie_id and hg.genre_id = g.id group by m.title;
