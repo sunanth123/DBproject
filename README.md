@@ -79,7 +79,7 @@ The create table statements are all found in [load.sql](https://github.com/sunan
 [Result](https://github.com/sunanth123/DBproject/blob/master/QueryResults/19.txt)
 
 20. **What are the years that contain a keyword that has appeared for more than one year?** <br /> QUERY: select distinct t.year from time t, search s, keywords k where t.id = s.time_id and s.keyword_id = k.id and k.word in (select k.word from keywords k, search s where s.keyword_id = k.id group by k.word having count(*) > 1);
-[Result](https://github.com/sunanth123/DBproject/blob/master/QueryResults/19.txt) <br /> *Original question: What are the highest grossing movies on all the years that contain the most frequently used movie keyword? The reason for the change was because the question was phrased ackwardly and didn't make much sense in a query standpoint.* 
+[Result](https://github.com/sunanth123/DBproject/blob/master/QueryResults/20.txt) <br /> *Original question: What are the highest grossing movies on all the years that contain the most frequently used movie keyword? The reason for the change was because the question was phrased ackwardly and didn't make much sense in a query standpoint.* 
 
 ## Contents of Tables
 The contents of all the tables can be found in the text files in this folder: [Contents](https://github.com/sunanth123/DBproject/tree/master/ContentsofTables)
