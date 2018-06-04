@@ -1,0 +1,11 @@
+drop table storage;
+drop table search;
+drop table casting;
+drop table hasgenre;
+drop table movie;
+drop table genre;
+drop table actor;
+drop table review;
+drop table director;
+drop table time;
+drop table keywords;
