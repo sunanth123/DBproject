@@ -5,4 +5,4 @@
 ![Screenshot](ERdiagram.png)
 
 ### Create Table Statements
-The create table statements are all found in [[https://github.com/sunanth123/DBproject/blob/master/load.sql][load.sql]]
+The create table statements are all found in [load.sql](https://github.com/sunanth123/DBproject/blob/master/load.sql)
