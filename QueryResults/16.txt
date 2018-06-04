@@ -1,0 +1,15 @@
+ year |                    title                     | revenue 
+------+----------------------------------------------+---------
+ 2006 | Pirates of the Caribbean: Dead Man's Chest   |  423.03
+ 2007 | Spider-Man 3                                 |  336.53
+ 2008 | The Dark Knight                              |  533.32
+ 2009 | Avatar                                       |  760.51
+ 2010 | Toy Story 3                                  |  414.98
+ 2011 | Harry Potter and the Deathly Hallows: Part 2 |  380.96
+ 2012 | The Avengers                                 |  623.28
+ 2013 | The Hunger Games: Catching Fire              |  424.65
+ 2014 | American Sniper                              |  350.12
+ 2015 | Star Wars: Episode VII - The Force Awakens   |  936.63
+ 2016 | Rogue One                                    |  532.17
+(11 rows)
+
