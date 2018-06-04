@@ -18,7 +18,7 @@ The create table statements are all found in [load.sql](https://github.com/sunan
 8. The review information had its information loaded directly from the storage table.
 9. The remaining information from the storage table were then loaded into the movie table. 
 10. The search table was manually entered to match the popular keywords for the respective year.
-11. Lastly, the join tables casting and hasgenre were loaded with the appropriate foreign keys such that they reference the correct attributes. (note the foreign key connections in these join tables are done useing subqueries, see [load.sql](https://github.com/sunanth123/DBproject/blob/master/load.sql).
+11. Lastly, the join tables casting and hasgenre were loaded with the appropriate foreign keys such that they reference the correct attributes. (note the foreign key connections in these join tables are done useing subqueries, see [load.sql](https://github.com/sunanth123/DBproject/blob/master/load.sql)).
 
 ### 20 Questions
 1. **How many movies are there by year of release?** <br /> QUERY: select count(m.title), t.year from movie m join time t on m.time_id = t.id group by t.year;
