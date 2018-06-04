@@ -4,4 +4,4 @@
 ### ER Diagram
 ![Screenshot](ERdiagram.png)
 
-![Screenshot](movie.txt)
+![Screenshot](load.sql)
