@@ -4,4 +4,5 @@
 ### ER Diagram
 ![Screenshot](ERdiagram.png)
 
-![Screenshot](load.sql)
+### Create Table Statements
+The create table statements are all found in [[https://github.com/sunanth123/DBproject/blob/master/load.sql][load.sql]]
