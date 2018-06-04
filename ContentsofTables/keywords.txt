@@ -1,0 +1,28 @@
+ id |    word    
+----+------------
+  1 | highschool
+  2 | x-men
+  3 | angelina
+  4 | miley
+  5 | 300
+  6 | joker
+  7 | batman
+  8 | twilight
+  9 | moon
+ 10 | leo
+ 11 | inception
+ 12 | selena
+ 13 | hunger
+ 14 | avengers
+ 15 | paul
+ 16 | iron
+ 17 | steel
+ 18 | jared
+ 19 | frozen
+ 20 | sheen
+ 21 | jurrasic
+ 22 | compton
+ 23 | brad
+ 24 | suicide
+(24 rows)
+
