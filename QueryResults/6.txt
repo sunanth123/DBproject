@@ -1,0 +1,24 @@
+  max   | genre_name 
+--------+------------
+ 256.39 | Horror
+ 255.95 | Sport
+ 936.63 | Action
+ 424.65 | Mystery
+ 448.13 | Thriller
+    364 | Family
+ 486.29 | Comedy
+ 936.63 | Adventure
+ 533.32 | Crime
+  182.2 | History
+ 191.45 | Romance
+ 936.63 | Fantasy
+ 533.32 | Drama
+ 183.44 | Music
+ 171.03 | Western
+ 148.78 | Musical
+ 652.18 | Sci-Fi
+ 486.29 | Animation
+ 350.12 | Biography
+ 210.59 | War
+(20 rows)
+

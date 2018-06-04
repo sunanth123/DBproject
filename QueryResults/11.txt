@@ -1,0 +1,38 @@
+                   title                    | revenue | runtime 
+--------------------------------------------+---------+---------
+ The Babysitters                            |    0.04 |      88
+ The Road                                   |    0.06 |     111
+ Filth                                      |    0.03 |      97
+ Trust                                      |    0.06 |     106
+ The Sea of Trees                           |    0.02 |     110
+ I Spit on Your Grave                       |    0.09 |     108
+ The Midnight Meat Train                    |    0.07 |      98
+ The Blackcoat's Daughter                   |    0.02 |      93
+ Dead Awake                                 |    0.01 |      99
+ Wakefield                                  |    0.01 |     106
+ A Street Cat Named Bob                     |    0.04 |     103
+ Equals                                     |    0.03 |     101
+ Lovesong                                   |    0.01 |      84
+ Sleeping Beauty                            |    0.03 |     101
+ The First Time                             |    0.02 |      95
+ A Kind of Murder                           |       0 |      95
+ Bastille Day                               |    0.04 |      92
+ Coherence                                  |    0.07 |      89
+ The Daughter                               |    0.03 |      96
+ Clown                                      |    0.05 |     100
+ Half of a Yellow Sun                       |    0.05 |     111
+ Into the Forest                            |    0.01 |     101
+ Mr. Right                                  |    0.03 |      95
+ Love, Rosie                                |    0.01 |     102
+ La migliore offerta                        |    0.09 |     131
+ Stake Land                                 |    0.02 |      98
+ Turbo Kid                                  |    0.05 |      93
+ Avatar                                     |  760.51 |     162
+ Star Wars: Episode VII - The Force Awakens |  936.63 |     136
+ Regression                                 |    0.05 |     106
+ Knock Knock                                |    0.03 |      99
+ King Cobra                                 |    0.03 |      91
+ Il racconto dei racconti - Tale of Tales   |    0.08 |     133
+ Before We Go                               |    0.04 |      95
+(34 rows)
+

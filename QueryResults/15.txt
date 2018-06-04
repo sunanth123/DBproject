@@ -1,0 +1,26 @@
+      actor_name      
+----------------------
+ Jon Favreau
+ Kenneth Branagh
+ Joseph Gordon-Levitt
+ James Franco
+ Ewan McGregor
+ Seth MacFarlane
+ Jemaine Clement
+ Akiva Schaffer
+ Aamir Khan
+ John Krasinski
+ Chris Evans
+ Clint Eastwood
+ John Francis Daley
+ Ben Affleck
+ Sean Penn
+ Angelina Jolie
+ Mel Gibson
+ Alexi Pappas
+ Ben Stiller
+ Woody Allen
+ Sylvester Stallone
+ Denzel Washington
+(22 rows)
+

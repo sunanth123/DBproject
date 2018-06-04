@@ -1,0 +1,9 @@
+    word    
+------------
+ twilight
+ miley
+ highschool
+ moon
+ joker
+(5 rows)
+

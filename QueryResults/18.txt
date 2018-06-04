@@ -1,0 +1,37 @@
+ year |    word    
+------+------------
+ 2006 | highschool
+ 2006 | x-men
+ 2006 | angelina
+ 2007 | miley
+ 2007 | highschool
+ 2007 | 300
+ 2008 | miley
+ 2008 | joker
+ 2008 | batman
+ 2009 | miley
+ 2009 | twilight
+ 2009 | moon
+ 2010 | miley
+ 2010 | leo
+ 2010 | inception
+ 2011 | selena
+ 2011 | twilight
+ 2011 | moon
+ 2012 | miley
+ 2012 | hunger
+ 2012 | avengers
+ 2013 | paul
+ 2013 | iron
+ 2013 | steel
+ 2014 | jared
+ 2014 | joker
+ 2014 | frozen
+ 2015 | sheen
+ 2015 | jurrasic
+ 2015 | compton
+ 2016 | brad
+ 2016 | suicide
+ 2016 | joker
+(33 rows)
+

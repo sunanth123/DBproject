@@ -1,0 +1,24 @@
+                    title                     
+----------------------------------------------
+ 12 Years a Slave
+ La La Land
+ Pan's Labyrinth
+ Spotlight
+ The Bourne Ultimatum
+ The Lives of Others
+ Star Wars: Episode VII - The Force Awakens
+ Mad Max: Fury Road
+ Django Unchained
+ Inside Out
+ The Grand Budapest Hotel
+ The Dark Knight
+ Whiplash
+ Up
+ There Will Be Blood
+ The Departed
+ Room
+ Harry Potter and the Deathly Hallows: Part 2
+ No Country for Old Men
+ Toy Story 3
+(20 rows)
+

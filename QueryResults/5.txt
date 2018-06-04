@@ -1,0 +1,24 @@
+ count | genre_name 
+-------+------------
+   119 | Horror
+    18 | Sport
+   303 | Action
+   106 | Mystery
+   195 | Thriller
+    51 | Family
+   279 | Comedy
+   259 | Adventure
+   150 | Crime
+    29 | History
+   141 | Romance
+   101 | Fantasy
+   513 | Drama
+    16 | Music
+     7 | Western
+     5 | Musical
+   120 | Sci-Fi
+    49 | Animation
+    81 | Biography
+    13 | War
+(20 rows)
+

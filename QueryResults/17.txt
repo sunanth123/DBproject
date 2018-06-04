@@ -1,0 +1,1004 @@
+                             title                             | count 
+---------------------------------------------------------------+-------
+ Point Break                                                   |     3
+ Relatos salvajes                                              |     3
+ Concussion                                                    |     3
+ The Hateful Eight                                             |     3
+ Captain America: The Winter Soldier                           |     3
+ The Other Woman                                               |     2
+ True Crimes                                                   |     3
+ The Theory of Everything                                      |     3
+ Zero Dark Thirty                                              |     3
+ I Am the Pretty Thing That Lives in the House                 |     1
+ Talladega Nights: The Ballad of Ricky Bobby                   |     3
+ A Kind of Murder                                              |     3
+ Indignation                                                   |     2
+ Rio                                                           |     3
+ There Will Be Blood                                           |     2
+ Fantastic Four                                                |     3
+ Wolves at the Door                                            |     2
+ Bridge of Spies                                               |     3
+ Whisky Galore                                                 |     2
+ L'odyssée                                                     |     2
+ Kickboxer: Vengeance                                          |     1
+ Kingsman: The Secret Service                                  |     3
+ Edge of Tomorrow                                              |     3
+ Whiplash                                                      |     2
+ American Sniper                                               |     3
+ Disaster Movie                                                |     1
+ Watchmen                                                      |     3
+ John Carter                                                   |     3
+ The Hobbit: An Unexpected Journey                             |     2
+ Cloverfield                                                   |     3
+ Australia                                                     |     3
+ 1408                                                          |     2
+ Arrival                                                       |     3
+ What If                                                       |     2
+ Beowulf                                                       |     3
+ Annabelle                                                     |     3
+ Deadpool                                                      |     3
+ Frozen                                                        |     3
+ Out of the Furnace                                            |     3
+ Collide                                                       |     3
+ Jagten                                                        |     1
+ High-Rise                                                     |     1
+ Live Free or Die Hard                                         |     3
+ Busanhaeng                                                    |     3
+ The Visit                                                     |     3
+ Denial                                                        |     2
+ Finding Dory                                                  |     3
+ The Place Beyond the Pines                                    |     3
+ Trolls                                                        |     3
+ The Secret Life of Pets                                       |     3
+ Interstellar                                                  |     3
+ Their Finest                                                  |     3
+ Boyhood                                                       |     1
+ Rocky Balboa                                                  |     2
+ Percy Jackson & the Olympians: The Lightning Thief            |     3
+ Lowriders                                                     |     1
+ Tinker Tailor Soldier Spy                                     |     3
+ Total Recall                                                  |     3
+ Evil Dead                                                     |     2
+ Coherence                                                     |     3
+ The Intouchables                                              |     3
+ Faster                                                        |     3
+ Eagle Eye                                                     |     3
+ Norman: The Moderate Rise and Tragic Fall of a New York Fixer |     2
+ Vampire Academy                                               |     3
+ The Founder                                                   |     3
+ Minions                                                       |     3
+ No Strings Attached                                           |     2
+ The Hangover                                                  |     1
+ Ma vie de Courgette                                           |     3
+ RocknRolla                                                    |     3
+ The Town                                                      |     3
+ Hardcore Henry                                                |     3
+ Don't Fuck in the Woods                                       |     1
+ I Am Number Four                                              |     3
+ The Green Inferno                                             |     2
+ The Expendables 2                                             |     3
+ The Revenant                                                  |     3
+ Birdman or (The Unexpected Virtue of Ignorance)               |     3
+ Jurassic World                                                |     3
+ 300: Rise of an Empire                                        |     3
+ The Sea of Trees                                              |     1
+ The Edge of Seventeen                                         |     2
+ Hunt for the Wilderpeople                                     |     3
+ Sex Tape                                                      |     2
+ Jennifer's Body                                               |     2
+ World War Z                                                   |     3
+ Demolition                                                    |     2
+ Goosebumps                                                    |     3
+ Popstar: Never Stop Never Stopping                            |     2
+ Closed Circuit                                                |     3
+ The House Bunny                                               |     2
+ Robin Hood                                                    |     3
+ A Hologram for the King                                       |     2
+ Vincent N Roxxy                                               |     3
+ The Hunger Games: Catching Fire                               |     3
+ The Mist                                                      |     1
+ The King's Speech                                             |     2
+ No Escape                                                     |     2
+ Free Fire                                                     |     3
+ Apocalypto                                                    |     3
+ Pitch Perfect 2                                               |     2
+ Realive                                                       |     1
+ Twin Peaks: The Missing Pieces                                |     3
+ Moonrise Kingdom                                              |     3
+ The Imaginarium of Doctor Parnassus                           |     3
+ La La Land                                                    |     3
+ The Human Centipede (First Sequence)                          |     1
+ Casino Royale                                                 |     3
+ Home                                                          |     3
+ I Am Legend                                                   |     3
+ Alice in Wonderland                                           |     3
+ Il racconto dei racconti - Tale of Tales                      |     3
+ Black Swan                                                    |     2
+ Criminal                                                      |     3
+ The Gambler                                                   |     3
+ Snakes on a Plane                                             |     3
+ The Descendants                                               |     2
+ The Finest Hours                                              |     3
+ Swiss Army Man                                                |     3
+ Godzilla                                                      |     3
+ The Bourne Legacy                                             |     3
+ Blood Father                                                  |     3
+ It's Only the End of the World                                |     1
+ Inception                                                     |     3
+ The Great Gatsby                                              |     2
+ Tracktown                                                     |     2
+ Pixels                                                        |     3
+ Dawn of the Planet of the Apes                                |     3
+ The Drop                                                      |     3
+ Sunshine                                                      |     3
+ American Pastoral                                             |     2
+ Battleship                                                    |     3
+ Dredd                                                         |     2
+ The Hollars                                                   |     3
+ X-Men: Days of Future Past                                    |     3
+ Seven Psychopaths                                             |     2
+ The Avengers                                                  |     2
+ Forushande                                                    |     2
+ Project X                                                     |     1
+ Alice Through the Looking Glass                               |     3
+ Kick-Ass                                                      |     2
+ Jumper                                                        |     3
+ The Expendables 3                                             |     3
+ Death Race                                                    |     3
+ Underworld Awakening                                          |     3
+ The Tree of Life                                              |     2
+ Tusk                                                          |     3
+ The Other Boleyn Girl                                         |     3
+ Indiana Jones and the Kingdom of the Crystal Skull            |     3
+ Star Wars: Episode VII - The Force Awakens                    |     3
+ Youth                                                         |     3
+ Suicide Squad                                                 |     3
+ The Ghost Writer                                              |     2
+ The Levelling                                                 |     1
+ The Judge                                                     |     2
+ Ocean's Thirteen                                              |     2
+ Fallen                                                        |     3
+ Legend                                                        |     3
+ A Quiet Passion                                               |     2
+ L'avenir                                                      |     1
+ Stake Land                                                    |     3
+ The Secret Life of Walter Mitty                               |     3
+ Dead Awake                                                    |     2
+ Guardians of the Galaxy                                       |     3
+ Fast & Furious                                                |     3
+ Your Highness                                                 |     3
+ Woman in Gold                                                 |     3
+ The Exception                                                 |     1
+ The Master                                                    |     1
+ Hunger                                                        |     2
+ Sing Street                                                   |     3
+ Now You See Me 2                                              |     3
+ Just Go with It                                               |     2
+ This Beautiful Fantastic                                      |     3
+ One Day                                                       |     2
+ Clash of the Titans                                           |     3
+ Seven Pounds                                                  |     2
+ Ant-Man                                                       |     3
+ 2012                                                          |     3
+ Sleeping with Other People                                    |     3
+ Silence                                                       |     3
+ The BFG                                                       |     3
+ Inherent Vice                                                 |     3
+ Dope                                                          |     3
+ RED                                                           |     3
+ Scouts Guide to the Zombie Apocalypse                         |     3
+ Inside Man                                                    |     3
+ Need for Speed                                                |     3
+ Twilight                                                      |     3
+ Transcendence                                                 |     3
+ Free State of Jones                                           |     3
+ The Love Witch                                                |     2
+ The Disappointments Room                                      |     3
+ Mr. Church                                                    |     2
+ The Light Between Oceans                                      |     2
+ Bonjour Anne                                                  |     3
+ Dallas Buyers Club                                            |     2
+ Noah                                                          |     3
+ War on Everyone                                               |     2
+ Seventh Son                                                   |     3
+ Little Miss Sunshine                                          |     2
+ Rogue One                                                     |     3
+ The Counselor                                                 |     3
+ Grimsby                                                       |     3
+ Hugo                                                          |     3
+ Barbershop: The Next Cut                                      |     2
+ Sing                                                          |     3
+ Demain tout commence                                          |     2
+ Transformers: Revenge of the Fallen                           |     3
+ Maudie                                                        |     3
+ Begin Again                                                   |     2
+ The Boss                                                      |     1
+ The Hills Have Eyes                                           |     1
+ Dirty Grandpa                                                 |     1
+ Easy A                                                        |     3
+ The Warriors Gate                                             |     3
+ Forgetting Sarah Marshall                                     |     3
+ Man of Steel                                                  |     3
+ The Invitation                                                |     3
+ Paris pieds nus                                               |     1
+ Maze Runner: The Scorch Trials                                |     3
+ The Blind Side                                                |     3
+ Billy Lynn's Long Halftime Walk                               |     2
+ Piranha 3D                                                    |     3
+ The Intent                                                    |     2
+ Babel                                                         |     1
+ Hot Fuzz                                                      |     3
+ Slumdog Millionaire                                           |     1
+ Teenage Mutant Ninja Turtles                                  |     3
+ Before I Wake                                                 |     3
+ Warcraft                                                      |     3
+ Ender's Game                                                  |     2
+ The Martian                                                   |     3
+ The Escort                                                    |     3
+ Sweeney Todd: The Demon Barber of Fleet Street                |     3
+ Hidden Figures                                                |     3
+ Moonlight                                                     |     1
+ Rambo                                                         |     3
+ Tropic Thunder                                                |     2
+ Dear Zindagi                                                  |     2
+ The Lovely Bones                                              |     3
+ Ted 2                                                         |     3
+ Spotlight                                                     |     3
+ The Heat                                                      |     3
+ The Karate Kid                                                |     3
+ Café Society                                                  |     3
+ Lady Macbeth                                                  |     1
+ Shutter Island                                                |     2
+ Django Unchained                                              |     2
+ American Gangster                                             |     3
+ San Andreas                                                   |     3
+ Her                                                           |     3
+ Let Me Make You a Martyr                                      |     3
+ Love, Rosie                                                   |     2
+ Half of a Yellow Sun                                          |     2
+ Gone Girl                                                     |     3
+ Koe no katachi                                                |     3
+ Precious                                                      |     1
+ Nymphomaniac: Vol. II                                         |     1
+ Transformers: Age of Extinction                               |     3
+ Dracula Untold                                                |     3
+ Sinister                                                      |     2
+ Christine                                                     |     2
+ Tron                                                          |     3
+ What to Expect When You're Expecting                          |     3
+ The Wolverine                                                 |     3
+ Kick-Ass 2                                                    |     3
+ White Girl                                                    |     1
+ American Hustle                                               |     2
+ Salt                                                          |     3
+ Death Proof                                                   |     1
+ Lincoln                                                       |     3
+ The DUFF                                                      |     1
+ Furious 6                                                     |     3
+ Scott Pilgrim vs. the World                                   |     3
+ A Good Year                                                   |     3
+ Sin City: A Dame to Kill For                                  |     3
+ Lovesong                                                      |     1
+ Ballerina                                                     |     3
+ Ghostbusters                                                  |     3
+ The Incredible Hulk                                           |     3
+ Legion                                                        |     3
+ X-Men: Apocalypse                                             |     3
+ Wanted                                                        |     3
+ Diary of a Wimpy Kid: Dog Days                                |     2
+ Movie 43                                                      |     2
+ Incendies                                                     |     3
+ Viking                                                        |     3
+ Paint It Black                                                |     1
+ The Daughter                                                  |     1
+ Green Room                                                    |     3
+ Megamind                                                      |     3
+ Sucker Punch                                                  |     2
+ Shame                                                         |     1
+ Eye in the Sky                                                |     3
+ Iron Man Three                                                |     3
+ The Lost City of Z                                            |     3
+ Aliens vs Predator - Requiem                                  |     3
+ Taken                                                         |     2
+ Jane Eyre                                                     |     2
+ Gran Torino                                                   |     1
+ The Grand Budapest Hotel                                      |     3
+ Immortals                                                     |     3
+ Taare Zameen Par                                              |     3
+ Divergent                                                     |     3
+ Get Hard                                                      |     2
+ The Road                                                      |     2
+ RoboCop                                                       |     3
+ Below Her Mouth                                               |     1
+ The Maze Runner                                               |     3
+ The Stakelander                                               |     2
+ Vacation                                                      |     2
+ Elysium                                                       |     3
+ The 9th Life of Louis Drax                                    |     2
+ Room                                                          |     1
+ Srpski film                                                   |     3
+ The Break-Up                                                  |     3
+ Moana                                                         |     3
+ Hush                                                          |     2
+ The Headhunter's Calling                                      |     1
+ Detour                                                        |     1
+ Cinderella                                                    |     3
+ Step Up 2: The Streets                                        |     3
+ Pacific Rim                                                   |     3
+ Nocturnal Animals                                             |     2
+ Solace                                                        |     3
+ Turbo Kid                                                     |     3
+ The Neighbor                                                  |     3
+ Sex and the City                                              |     3
+ She's the Man                                                 |     3
+ Toni Erdmann                                                  |     2
+ Doctor Strange                                                |     3
+ The Man from U.N.C.L.E.                                       |     3
+ Filth                                                         |     3
+ Nymphomaniac: Vol. I                                          |     1
+ The Purge                                                     |     3
+ Pineapple Express                                             |     3
+ The Adjustment Bureau                                         |     3
+ The Da Vinci Code                                             |     2
+ Midnight in Paris                                             |     3
+ Taken 3                                                       |     2
+ Bacalaureat                                                   |     2
+ Triple 9                                                      |     3
+ Avatar                                                        |     3
+ The Mortal Instruments: City of Bones                         |     3
+ We Are Your Friends                                           |     3
+ Jack Ryan: Shadow Recruit                                     |     3
+ The Accountant                                                |     3
+ Superman Returns                                              |     3
+ Bronson                                                       |     3
+ P.S. I Love You                                               |     2
+ Thor                                                          |     3
+ The Host                                                      |     3
+ Oz the Great and Powerful                                     |     3
+ The Nice Guys                                                 |     3
+ Horrible Bosses 2                                             |     2
+ The Golden Compass                                            |     3
+ The Perks of Being a Wallflower                               |     2
+ 28 Weeks Later                                                |     3
+ Prometheus                                                    |     3
+ The Black Room                                                |     1
+ John Wick                                                     |     3
+ Exposed                                                       |     3
+ Office Christmas Party                                        |     1
+ Dangal                                                        |     3
+ Resident Evil: Afterlife                                      |     3
+ Handsome Devil                                                |     1
+ Underworld: Blood Wars                                        |     3
+ Personal Shopper                                              |     3
+ The Hunger Games: Mockingjay - Part 1                         |     3
+ La tortue rouge                                               |     2
+ Into the Forest                                               |     3
+ The Kings of Summer                                           |     3
+ A Monster Calls                                               |     2
+ Paterson                                                      |     3
+ The Wolf of Wall Street                                       |     3
+ Keeping Up with the Joneses                                   |     2
+ Angry Birds                                                   |     3
+ Spring Breakers                                               |     1
+ Zombieland                                                    |     3
+ District 9                                                    |     3
+ Kung Fu Panda 3                                               |     3
+ Big Hero 6                                                    |     3
+ Rise of the Planet of the Apes                                |     3
+ The Babysitters                                               |     1
+ Planet Terror                                                 |     3
+ The Assignment                                                |     3
+ Neighbors 2: Sorority Rising                                  |     1
+ Mr. Brooks                                                    |     3
+ Brooklyn                                                      |     2
+ Life of Pi                                                    |     3
+ Lights Out                                                    |     1
+ Before We Go                                                  |     3
+ Friend Request                                                |     2
+ Mother's Day                                                  |     2
+ Selma                                                         |     3
+ Why Him?                                                      |     1
+ Unbroken                                                      |     3
+ A Walk Among the Tombstones                                   |     3
+ Prince of Persia: The Sands of Time                           |     3
+ What We Do in the Shadows                                     |     3
+ Sleight                                                       |     3
+ Contagion                                                     |     2
+ Gone Baby Gone                                                |     3
+ Centurion                                                     |     3
+ Riddick                                                       |     3
+ Mission: Impossible III                                       |     3
+ Man Down                                                      |     2
+ Conan the Barbarian                                           |     3
+ Melancholia                                                   |     1
+ It Follows                                                    |     2
+ The Legend of Tarzan                                          |     3
+ The Girl Next Door                                            |     3
+ Crimson Peak                                                  |     3
+ 3 Idiots                                                      |     2
+ Red Dawn                                                      |     2
+ Harry Potter and the Deathly Hallows: Part 2                  |     3
+ Dark Places                                                   |     3
+ Ah-ga-ssi                                                     |     3
+ Transformers: Dark of the Moon                                |     3
+ The Boy                                                       |     3
+ Southpaw                                                      |     2
+ Superbad                                                      |     1
+ Secret in Their Eyes                                          |     3
+ Brave                                                         |     3
+ The Three Musketeers                                          |     3
+ Trainwreck                                                    |     3
+ The Gift                                                      |     2
+ G.I. Joe: Retaliation                                         |     3
+ Jack Reacher                                                  |     3
+ Custody                                                       |     1
+ Morgan                                                        |     3
+ Predestination                                                |     3
+ The A-Team                                                    |     3
+ Drive                                                         |     2
+ How to Be Single                                              |     2
+ Insurgent                                                     |     3
+ Atonement                                                     |     3
+ The Intern                                                    |     2
+ 20th Century Women                                            |     2
+ Nightcrawler                                                  |     3
+ The Interview                                                 |     1
+ Cloud Atlas                                                   |     2
+ Equals                                                        |     3
+ Zodiac                                                        |     3
+ The Rise of the Krays                                         |     2
+ Boyka: Undisputed IV                                          |     1
+ If I Stay                                                     |     3
+ Anna Karenina                                                 |     2
+ Men in Black 3                                                |     3
+ Let's Be Cops                                                 |     1
+ The Girl with All the Gifts                                   |     3
+ Loving                                                        |     3
+ Inferno                                                       |     3
+ Teenage Mutant Ninja Turtles: Out of the Shadows              |     3
+ Orphan                                                        |     3
+ Kimi no na wa                                                 |     3
+ Safe Haven                                                    |     3
+ Man on a Ledge                                                |     3
+ War Dogs                                                      |     3
+ Contratiempo                                                  |     3
+ Transformers                                                  |     3
+ The Girl on the Train                                         |     3
+ Masterminds                                                   |     3
+ Mommy                                                         |     1
+ The Fountain                                                  |     2
+ The Lucky One                                                 |     2
+ Jack Reacher: Never Go Back                                   |     3
+ Zoolander 2                                                   |     1
+ The Guest                                                     |     1
+ Resident Evil: The Final Chapter                              |     3
+ Blended                                                       |     2
+ Money Monster                                                 |     3
+ Moneyball                                                     |     3
+ The 5th Wave                                                  |     3
+ He's Just Not That Into You                                   |     3
+ The Blackcoat's Daughter                                      |     2
+ About Time                                                    |     3
+ The Other Guys                                                |     3
+ Exodus: Gods and Kings                                        |     3
+ The Do-Over                                                   |     3
+ The Heartbreak Kid                                            |     2
+ Wreck-It Ralph                                                |     3
+ Mission: Impossible - Ghost Protocol                          |     3
+ The Bad Batch                                                 |     2
+ Bridget Jones's Baby                                          |     2
+ Spectre                                                       |     3
+ The Boy Next Door                                             |     2
+ Winter's Bone                                                 |     1
+ Pirates of the Caribbean: At World's End                      |     3
+ All Good Things                                               |     3
+ Rock Dog                                                      |     3
+ Mr. Nobody                                                    |     3
+ Disturbia                                                     |     3
+ Gold                                                          |     3
+ 12 Years a Slave                                              |     3
+ Pompeii                                                       |     3
+ The Big Short                                                 |     3
+ That Awkward Moment                                           |     2
+ Frantz                                                        |     3
+ The Infiltrator                                               |     3
+ A Cure for Wellness                                           |     3
+ A Street Cat Named Bob                                        |     3
+ Central Intelligence                                          |     3
+ Lawless                                                       |     2
+ Shooter                                                       |     3
+ Ouija: Origin of Evil                                         |     2
+ Prisoners                                                     |     3
+ Live by Night                                                 |     2
+ The Age of Adaline                                            |     3
+ Passengers                                                    |     3
+ Enemy                                                         |     2
+ Allied                                                        |     3
+ Couples Retreat                                               |     1
+ The Longest Ride                                              |     2
+ The Illusionist                                               |     3
+ Crawlspace                                                    |     2
+ Step Brothers                                                 |     1
+ Gravity                                                       |     3
+ Happy Feet                                                    |     3
+ Step Up                                                       |     3
+ Self/less                                                     |     3
+ Pet                                                           |     2
+ Creed                                                         |     2
+ Don't Breathe                                                 |     3
+ American Wrestler: The Wizard                                 |     2
+ Public Enemies                                                |     3
+ 21                                                            |     3
+ The Twilight Saga: Breaking Dawn - Part 1                     |     3
+ Under the Skin                                                |     3
+ Texas Chainsaw 3D                                             |     2
+ Hacker                                                        |     3
+ Blood Diamond                                                 |     3
+ Rescue Dawn                                                   |     3
+ Suite Française                                               |     3
+ Storks                                                        |     3
+ Split                                                         |     2
+ Let Me In                                                     |     3
+ Captain America: Civil War                                    |     3
+ Collateral Beauty                                             |     2
+ Stardust                                                      |     3
+ Zack and Miri Make a Porno                                    |     2
+ In Dubious Battle                                             |     1
+ Entourage                                                     |     1
+ The Choice                                                    |     2
+ Wrath of the Titans                                           |     3
+ Footloose                                                     |     3
+ 10 Cloverfield Lane                                           |     3
+ Genius                                                        |     2
+ King Cobra                                                    |     2
+ Rupture                                                       |     3
+ Megan Is Missing                                              |     3
+ Keanu                                                         |     2
+ Unfriended                                                    |     3
+ X: First Class                                                |     3
+ The Equalizer                                                 |     3
+ Inside Out                                                    |     3
+ 21 Jump Street                                                |     3
+ In Bruges                                                     |     3
+ The Imitation Game                                            |     3
+ Perfetti sconosciuti                                          |     2
+ Night at the Museum: Secret of the Tomb                       |     3
+ Horrible Bosses                                               |     2
+ Carol                                                         |     2
+ Satanic                                                       |     1
+ Pitch Perfect                                                 |     3
+ Argo                                                          |     3
+ Sex and the City 2                                            |     3
+ Fracture                                                      |     3
+ Mama                                                          |     2
+ The Skin I Live In                                            |     2
+ Daddy's Home                                                  |     2
+ Bahubali: The Beginning                                       |     3
+ Grown Ups 2                                                   |     1
+ Knocked Up                                                    |     2
+ Me and Earl and the Dying Girl                                |     2
+ The Bourne Ultimatum                                          |     3
+ Blair Witch                                                   |     2
+ Gods of Egypt                                                 |     3
+ Hacksaw Ridge                                                 |     3
+ The Conjuring                                                 |     3
+ Batman v Superman: Dawn of Justice                            |     3
+ Brimstone                                                     |     3
+ Funny Games                                                   |     3
+ Trance                                                        |     3
+ La vie d'Adèle                                                |     2
+ The Hunger Games                                              |     3
+ 5- 25- 77                                                     |     2
+ La migliore offerta                                           |     3
+ Kung Fu Panda                                                 |     3
+ Dragonball Evolution                                          |     3
+ The Siege of Jadotville                                       |     3
+ Terminator Salvation                                          |     3
+ Coraline                                                      |     3
+ I Spit on Your Grave                                          |     3
+ Love                                                          |     2
+ Up in the Air                                                 |     2
+ Inglourious Basterds                                          |     3
+ The Expendables                                               |     3
+ Trust                                                         |     3
+ Quantum of Solace                                             |     3
+ Lone Survivor                                                 |     3
+ The Strangers                                                 |     3
+ Fury                                                          |     3
+ The Danish Girl                                               |     3
+ This Is the End                                               |     2
+ Monsters University                                           |     3
+ Skyfall                                                       |     3
+ Ratatouille                                                   |     3
+ Silent Hill                                                   |     3
+ Iron Man 2                                                    |     3
+ Pandorum                                                      |     3
+ Slither                                                       |     3
+ The Walk                                                      |     3
+ Unknown                                                       |     3
+ The Hobbit: The Battle of the Five Armies                     |     2
+ Spectral                                                      |     3
+ The Assassination of Jesse James by the Coward Robert Ford    |     3
+ Escape Plan                                                   |     3
+ Me Before You                                                 |     2
+ Bastille Day                                                  |     3
+ Scream 4                                                      |     2
+ Grindhouse                                                    |     3
+ Avengers: Age of Ultron                                       |     3
+ Goksung                                                       |     3
+ To Rome with Love                                             |     2
+ Harry Potter and the Order of the Phoenix                     |     3
+ Eddie the Eagle                                               |     3
+ Lucky Number Slevin                                           |     3
+ Pirates of the Caribbean: Dead Man's Chest                    |     3
+ Idiocracy                                                     |     3
+ Hell or High Water                                            |     3
+ The Belko Experiment                                          |     3
+ Super 8                                                       |     3
+ Ice Age: Collision Course                                     |     3
+ The Spectacular Now                                           |     3
+ Imperium                                                      |     3
+ Ghost Rider                                                   |     3
+ Resident Evil: Retribution                                    |     3
+ Rules Don't Apply                                             |     3
+ Final Girl                                                    |     2
+ Real Steel                                                    |     3
+ In Time                                                       |     3
+ Män som hatar kvinnor                                         |     3
+ The Man Who Knew Infinity                                     |     2
+ Don Jon                                                       |     3
+ Miss Sloane                                                   |     2
+ Dark Shadows                                                  |     3
+ Blue Jasmine                                                  |     1
+ Sausage Party                                                 |     3
+ Harry Potter and the Deathly Hallows: Part 1                  |     3
+ I, Daniel Blake                                               |     1
+ Zootopia                                                      |     3
+ The Conjuring 2                                               |     3
+ The Gunman                                                    |     3
+ End of Watch                                                  |     3
+ Hail, Caesar!                                                 |     2
+ Burnt                                                         |     2
+ The Purge: Election Year                                      |     3
+ Chalk It Up                                                   |     1
+ Knight of Cups                                                |     2
+ The Internship                                                |     1
+ Love & Friendship                                             |     3
+ Sisters                                                       |     1
+ The Last Face                                                 |     1
+ Ben-Hur                                                       |     3
+ Deepwater Horizon                                             |     3
+ The Babadook                                                  |     2
+ Underworld: Rise of the Lycans                                |     3
+ Anthropoid                                                    |     3
+ Adoration                                                     |     2
+ The Pursuit of Happyness                                      |     2
+ Hellboy II: The Golden Army                                   |     3
+ The Mummy: Tomb of the Dragon Emperor                         |     3
+ Birth of the Dragon                                           |     3
+ Deuces                                                        |     1
+ Savages                                                       |     3
+ Viral                                                         |     3
+ Predators                                                     |     3
+ Jason Bourne                                                  |     2
+ American Honey                                                |     1
+ Sherlock Holmes: A Game of Shadows                            |     3
+ Tangled                                                       |     3
+ Pride and Prejudice and Zombies                               |     3
+ Captain Fantastic                                             |     2
+ Revolutionary Road                                            |     2
+ The Family                                                    |     3
+ All We Had                                                    |     1
+ Victor Frankenstein                                           |     3
+ Captain Phillips                                              |     3
+ Olympus Has Fallen                                            |     2
+ Annie                                                         |     3
+ Source Code                                                   |     3
+ Captain America: The First Avenger                            |     3
+ The Fast and the Furious: Tokyo Drift                         |     3
+ The Whole Truth                                               |     3
+ Snowpiercer                                                   |     3
+ Sully                                                         |     2
+ The Last Witch Hunter                                         |     3
+ Super                                                         |     2
+ How to Train Your Dragon 2                                    |     3
+ The Hunger Games: Mockingjay - Part 2                         |     3
+ Shut In                                                       |     3
+ Rush                                                          |     3
+ The Girl with the Dragon Tattoo                               |     3
+ Mean Dreams                                                   |     1
+ Lion                                                          |     2
+ Chef                                                          |     2
+ Life as We Know It                                            |     3
+ Friday the 13th                                               |     1
+ Hotel Transylvania 2                                          |     3
+ My Big Fat Greek Wedding 2                                    |     3
+ WALL·E                                                        |     3
+ Mr. Right                                                     |     3
+ The Hurt Locker                                               |     3
+ The Autopsy of Jane Doe                                       |     3
+ Remember Me                                                   |     2
+ Wrecker                                                       |     3
+ Freedom Writers                                               |     3
+ Across the Universe                                           |     3
+ London Has Fallen                                             |     3
+ Saving Mr. Banks                                              |     3
+ Mindhorn                                                      |     1
+ The Magnificent Seven                                         |     3
+ The Hobbit: The Desolation of Smaug                           |     2
+ Chuck                                                         |     3
+ Tall Men                                                      |     3
+ She's Out of My League                                        |     2
+ Never Back Down                                               |     3
+ Snowden                                                       |     3
+ Children of Men                                               |     3
+ The Dictator                                                  |     1
+ 300                                                           |     3
+ Hachi: A Dog's Tale                                           |     2
+ Florence Foster Jenkins                                       |     3
+ The Lego Movie                                                |     3
+ Lady in the Water                                             |     3
+ The Social Network                                            |     2
+ The Lobster                                                   |     3
+ The Secret Scripture                                          |     1
+ Everest                                                       |     3
+ Hounds of Love                                                |     3
+ Into the Wild                                                 |     3
+ The Boy in the Striped Pyjamas                                |     2
+ Flight                                                        |     2
+ Everybody Wants Some!!                                        |     1
+ Fantastic Beasts and Where to Find Them                       |     3
+ 22 Jump Street                                                |     3
+ Devil's Knot                                                  |     3
+ Colossal                                                      |     3
+ Assassin's Creed                                              |     3
+ The Shallows                                                  |     3
+ Bleed for This                                                |     3
+ Into the Woods                                                |     3
+ Spy                                                           |     3
+ 3 Days to Kill                                                |     3
+ Cars 2                                                        |     3
+ Carrie                                                        |     2
+ Mine                                                          |     2
+ The Survivalist                                               |     3
+ The Butler                                                    |     2
+ The Promise                                                   |     2
+ City of Tiny Lights                                           |     3
+ Paul                                                          |     3
+ 13 Hours                                                      |     3
+ Looper                                                        |     3
+ Enchanted                                                     |     3
+ Gangster Squad                                                |     3
+ The Ugly Truth                                                |     2
+ Star Trek Beyond                                              |     3
+ The Hostk                                                     |     3
+ Amateur Night                                                 |     1
+ Love & Other Drugs                                            |     3
+ The Amazing Spider-Man 2                                      |     3
+ Despicable Me 2                                               |     3
+ Pirates of the Caribbean: On Stranger Tides                   |     3
+ Warm Bodies                                                   |     3
+ Sherlock Holmes                                               |     3
+ Chappie                                                       |     3
+ 127 Hours                                                     |     3
+ The Departed                                                  |     3
+ Spider-Man 3                                                  |     2
+ Diary of a Wimpy Kid                                          |     2
+ Now You See Me                                                |     3
+ Fool's Gold                                                   |     3
+ Fast Five                                                     |     3
+ Harry Potter and the Half-Blood Prince                        |     3
+ Pan                                                           |     3
+ Only for One Night                                            |     1
+ A United Kingdom                                              |     3
+ Wakefield                                                     |     1
+ This Means War                                                |     3
+ This Is 40                                                    |     2
+ The VVitch: A New-England Folktale                            |     2
+ We're the Millers                                             |     2
+ A Bigger Splash                                               |     2
+ Hairspray                                                     |     3
+ August Rush                                                   |     2
+ The Loft                                                      |     3
+ Sleeping Beauty                                               |     2
+ Hercules                                                      |     2
+ Magic Mike                                                    |     2
+ The Prestige                                                  |     3
+ Hands of Stone                                                |     3
+ Whiskey Tango Foxtrot                                         |     3
+ Hostel: Part II                                               |     1
+ En man som heter Ove                                          |     2
+ The Fall                                                      |     3
+ Diary of a Wimpy Kid: Rodrick Rules                           |     2
+ The Dark Knight Rises                                         |     2
+ Percy Jackson: Sea of Monsters                                |     3
+ Hello, My Name Is Doris                                       |     3
+ Notorious                                                     |     3
+ Pete's Dragon                                                 |     3
+ Hanna                                                         |     3
+ The Book of Eli                                               |     3
+ 17 Again                                                      |     3
+ The Ticket                                                    |     1
+ I Origins                                                     |     3
+ El secreto de sus ojos                                        |     3
+ USS Indianapolis: Men of Courage                              |     3
+ Kicks                                                         |     1
+ Mike and Dave Need Wedding Dates                              |     3
+ The Giver                                                     |     3
+ X-Men: The Last Stand                                         |     3
+ Marie Antoinette                                              |     3
+ Toy Story 3                                                   |     3
+ Miss Peregrine's Home for Peculiar Children                   |     3
+ Take Me Home Tonight                                          |     3
+ Dear White People                                             |     2
+ The Twilight Saga: Breaking Dawn - Part 2                     |     3
+ A Dark Song                                                   |     2
+ Folk Hero & Funny Guy                                         |     1
+ The First Time                                                |     3
+ The Book of Life                                              |     3
+ Kubo and the Two Strings                                      |     3
+ Raw (II)                                                      |     2
+ 31                                                            |     2
+ Martyrs                                                       |     1
+ Nerve                                                         |     3
+ Insidious                                                     |     3
+ PK                                                            |     3
+ Deja Vu                                                       |     3
+ Snow White and the Huntsman                                   |     3
+ Hancock                                                       |     3
+ Bad Moms                                                      |     1
+ Jupiter Ascending                                             |     3
+ The imposible                                                 |     2
+ Blue Valentine                                                |     2
+ The Dressmaker                                                |     2
+ G.I. Joe: The Rise of Cobra                                   |     3
+ Mad Max: Fury Road                                            |     3
+ Regression                                                    |     3
+ Bridge to Terabithia                                          |     3
+ Old Boy                                                       |     3
+ The Best of Me                                                |     2
+ Juno                                                          |     2
+ Beautiful Creatures                                           |     3
+ Limitless                                                     |     3
+ Star Trek Into Darkness                                       |     3
+ Crazy, Stupid, Love.                                          |     3
+ Silver Linings Playbook                                       |     3
+ Triangle                                                      |     3
+ American Reunion                                              |     1
+ Antichrist                                                    |     2
+ Les Misérables                                                |     3
+ 2307: Winter's Dream                                          |     1
+ Iron Man                                                      |     3
+ Colonia                                                       |     3
+ Manchester by the Sea                                         |     1
+ Fifty Shades of Grey                                          |     3
+ In the Heart of the Sea                                       |     3
+ Inland Empire                                                 |     3
+ The Ridiculous 6                                              |     2
+ Changeling                                                    |     3
+ Mechanic: Resurrection                                        |     3
+ The Help                                                      |     1
+ The Great Wall                                                |     3
+ Bridesmaids                                                   |     2
+ Monster Trucks                                                |     3
+ Allegiant                                                     |     3
+ The Dark Knight                                               |     3
+ Body of Lies                                                  |     3
+ Sicario                                                       |     3
+ Terminator Genisys                                            |     3
+ We Need to Talk About Kevin                                   |     3
+ Queen of Katwe                                                |     3
+ The Age of Shadows                                            |     3
+ Perfume: The Story of a Murderer                              |     3
+ Friends with Benefits                                         |     2
+ Fences                                                        |     1
+ The Cabin in the Woods                                        |     1
+ A Million Ways to Die in the West                             |     3
+ The Neon Demon                                                |     2
+ Blackhat                                                      |     3
+ Pan's Labyrinth                                               |     3
+ Joy                                                           |     1
+ The Last Airbender                                            |     3
+ Kynodontas                                                    |     2
+ The Jungle Book                                               |     3
+ Ted                                                           |     2
+ Beyond the Gates                                              |     2
+ Straight Outta Compton                                        |     3
+ The Matchbreaker                                              |     2
+ Tomorrowland                                                  |     3
+ Transpecos                                                    |     1
+ (500) Days of Summer                                          |     3
+ How to Train Your Dragon                                      |     3
+ Miracles from Heaven                                          |     3
+ The Huntsman: Winter's War                                    |     3
+ The Amazing Spider-Man                                        |     2
+ Neighbors                                                     |     1
+ Max                                                           |     2
+ 50/50                                                         |     3
+ White House Down                                              |     3
+ Locke                                                         |     1
+ Star Trek                                                     |     3
+ The World's End                                               |     3
+ Mission: Impossible - Rogue Nation                            |     3
+ The Midnight Meat Train                                       |     2
+ Thor: The Dark World                                          |     3
+ The Lone Ranger                                               |     3
+ Alexander and the Terrible, Horrible, No Good, Very Bad Day   |     2
+ Fantastic Mr. Fox                                             |     3
+ 42                                                            |     3
+ Green Lantern                                                 |     3
+ Midnight Special                                              |     3
+ Nine Lives                                                    |     3
+ Mamma Mia!                                                    |     3
+ Unstoppable                                                   |     2
+ Jackie                                                        |     3
+ Knock Knock                                                   |     3
+ Yoga Hosers                                                   |     3
+ Lavender                                                      |     2
+ The Proposal                                                  |     3
+ Focus                                                         |     3
+ Tramps                                                        |     2
+ Child 44                                                      |     3
+ Grown Ups                                                     |     1
+ Independence Day: Resurgence                                  |     3
+ Eastern Promises                                              |     3
+ Cars                                                          |     3
+ Iris                                                          |     1
+ Horns                                                         |     3
+ Patriots Day                                                  |     3
+ Final Destination 5                                           |     2
+ Ex Machina                                                    |     3
+ The Fault in Our Stars                                        |     2
+ Bride Wars                                                    |     2
+ Lída Baarová                                                  |     3
+ Max Steel                                                     |     3
+ After Earth                                                   |     3
+ Zipper                                                        |     2
+ Paper Towns                                                   |     3
+ 10 Years                                                      |     3
+ The Fighter                                                   |     3
+ Law Abiding Citizen                                           |     3
+ Lucy                                                          |     3
+ The Princess and the Frog                                     |     3
+ The Comedian                                                  |     1
+ The Devil Wears Prada                                         |     2
+ Magic Mike XXL                                                |     3
+ Moon                                                          |     3
+ The Stanford Prison Experiment                                |     3
+ What's Your Number?                                           |     2
+ The Twilight Saga: Eclipse                                    |     3
+ The Curious Case of Benjamin Button                           |     3
+ Macbeth                                                       |     2
+ Steve Jobs                                                    |     2
+ Wild                                                          |     3
+ Elle                                                          |     3
+ You Don't Mess with the Zohan                                 |     2
+ Oculus                                                        |     2
+ Black Mass                                                    |     3
+ Rock of Ages                                                  |     3
+ Don't Think Twice                                             |     2
+ No Country for Old Men                                        |     3
+ Oblivion                                                      |     3
+ Good Kids                                                     |     1
+ Endless Love                                                  |     2
+ Bone Tomahawk                                                 |     3
+ True Grit                                                     |     3
+ I.T.                                                          |     3
+ Shin Gojira                                                   |     3
+ The Lives of Others                                           |     2
+ The Void                                                      |     3
+ Clown                                                         |     2
+ The Thinning                                                  |     1
+ Vicky Cristina Barcelona                                      |     2
+ Maleficent                                                    |     3
+ Absolutely Anything                                           |     2
+ Despicable Me                                                 |     3
+ X-Men Origins: Wolverine                                      |     3
+ Up                                                            |     3
+ Pain & Gain                                                   |     3
+ Furious Seven                                                 |     3
+ The Happening                                                 |     2
+ Warrior                                                       |     3
+ Search Party                                                  |     2
+(1000 rows)
+

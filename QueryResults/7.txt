@@ -1,0 +1,6 @@
+   actor_name   | count 
+----------------+-------
+ Mark Wahlberg  |    11
+ Christian Bale |    11
+(2 rows)
+
